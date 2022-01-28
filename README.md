@@ -1,16 +1,14 @@
 # locket_flutter
 
-A new Flutter project.
+i *know* you have seen the famous locket app, where you can remind your lover everyday how much you love them. well, only if you have an iphone ig. so i decided my first venture into flutter to be with locket_flutter.
 
-## Getting Started
+Using a ghetto-ass server in the form of a burning-hot stolen raspberry-pi, somehow learning how things work in both ios and android, setting up some sort of background services and homescreen widget, i hope i can show my gf how much i love her. also to show my future employers how much i love the hustle and how valuable of an asset i am lol.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## checklist
+- create a settings page to save and manage variables such as ftp address, partnerid and regenerate your own id - *done*
+- figure out how to get the camera to work
+- save pics as files
+- save them to the ftp server
+- create widgets
+- background service to take care of updating the widget
+- add **_pizzaz_**
